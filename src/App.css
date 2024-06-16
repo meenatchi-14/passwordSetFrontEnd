@@ -1,0 +1,12 @@
+.Form{
+   display: flex;
+   flex-direction:column ;
+   justify-items: center;
+   align-items: center;
+   gap: 1rem;
+}
+.title{
+   color: rgb(192, 82, 72);
+   font-size:large;
+   font-weight: bold;
+}
